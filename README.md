@@ -2,7 +2,7 @@
 
 Here template REST application using Java Spring Boot + JWT+Postgre
 
-## Instalation
+## Installation
 
 ---
 
